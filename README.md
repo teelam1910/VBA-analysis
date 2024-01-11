@@ -9,7 +9,9 @@ Analyzing Changes in Given Stocks
 
 ## Accessing File
 - The file is too large to upload directly to github so I uploaded to Google Drive and provided the link in next bullet
-- Link to assigntment in Google Drive: [https://drive.google.com/file/d/1BhD98Ds0GugmJGu4G21GbzOkpSPwAX8G/view?usp=drive_link](https://drive.google.com/file/d/1BhD98Ds0GugmJGu4G21GbzOkpSPwAX8G/view?usp=sharing)
+- Link to assigntment in Google Drive: [https://drive.google.com/file/d/1BhD98Ds0GugmJGu4G21GbzOkpSPwAX8G/view?usp=drive_link]-
+- Please click link, then download in order to access file named "Multiple_year_stock_data_final" which will include the Macro named "stock_data"
+  (https://drive.google.com/file/d/1BhD98Ds0GugmJGu4G21GbzOkpSPwAX8G/view?usp=sharing)
 ![mockup](https://github.com/teelam1910/VBA-analysis/assets/132629216/19dcf731-1bdb-4b8d-b936-f1eb01471999)
 
 
