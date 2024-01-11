@@ -41,7 +41,7 @@ Tiffany La Mar
 ## Resources Used
 - Course materials
 - ASU/BCS Tutor
-- AskBCS
+- AskBCS Learning Assistants
 - Youtube https://www.youtube.com/watch?v=MeKL_n6SiYY and https://www.youtube.com/watch?v=tGHLa1TnhLc
 - Microsoft https://support.microsoft.com/en-au/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
 - Career Foundry https://careerfoundry.com/en/blog/data-analytics/vba-for-loop-excel/#:~:text=Things%20to%20consider%20before%20using%20a%20VBA%20For%20Loop%20in%20Excel,-A%20VBA%20For&text=If%20you%20want%20to%20create,(if%20your%20code%20continues).
