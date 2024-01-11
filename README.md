@@ -6,6 +6,7 @@
 
 ## Description
 Analyzing Changes in Given Stocks
+![mockup](https://github.com/teelam1910/VBA-analysis/assets/132629216/19dcf731-1bdb-4b8d-b936-f1eb01471999)
 
 
 
