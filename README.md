@@ -32,7 +32,7 @@ Excel
 
 ## Usage
 Open excel file of the analysis
-- Note: the file is too large to upload to GitHub. Will upload to BCS seperately
+- Note: the file is too large to upload to GitHub. Instructions on how to access noted above
 
 
 ## Credits
