@@ -39,6 +39,7 @@ Open excel file of the analysis
 Tiffany La Mar
 
 ## Additional Resources Used
+- Course materials
 - Program Tutor
 - AskBCS
 - Youtube https://www.youtube.com/watch?v=MeKL_n6SiYY and https://www.youtube.com/watch?v=tGHLa1TnhLc
