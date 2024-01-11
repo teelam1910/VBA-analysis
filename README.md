@@ -47,6 +47,7 @@ Tiffany La Mar
 - Career Foundry https://careerfoundry.com/en/blog/data-analytics/vba-for-loop-excel/#:~:text=Things%20to%20consider%20before%20using%20a%20VBA%20For%20Loop%20in%20Excel,-A%20VBA%20For&text=If%20you%20want%20to%20create,(if%20your%20code%20continues).
 - CFI https://corporatefinanceinstitute.com/resources/excel/vba-variables-dim/ and https://corporatefinanceinstitute.com/resources/excel/vba-for-loop/
 - Analysis Tabs https://analysistabs.com/excel-vba/colorindex/
+- Stack Overflow https://stackoverflow.com/questions/45510730/vba-how-to-convert-a-column-to-percentages
 
 
 ## Features
