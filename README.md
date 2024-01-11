@@ -38,9 +38,9 @@ Open excel file of the analysis
 ## Credits
 Tiffany La Mar
 
-## Additional Resources Used
+## Resources Used
 - Course materials
-- Program Tutor
+- ASU/BCS Tutor
 - AskBCS
 - Youtube https://www.youtube.com/watch?v=MeKL_n6SiYY and https://www.youtube.com/watch?v=tGHLa1TnhLc
 - Microsoft https://support.microsoft.com/en-au/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
