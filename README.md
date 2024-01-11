@@ -6,6 +6,10 @@
 
 ## Description
 Analyzing Changes in Given Stocks
+
+## Accessing File
+- The file is too large to upload directly to github so I uploaded to Google Drive and provided the link in next bullet
+- Link to assigntment in Google Drive: [https://drive.google.com/file/d/1BhD98Ds0GugmJGu4G21GbzOkpSPwAX8G/view?usp=drive_link](https://drive.google.com/file/d/1BhD98Ds0GugmJGu4G21GbzOkpSPwAX8G/view?usp=sharing)
 ![mockup](https://github.com/teelam1910/VBA-analysis/assets/132629216/19dcf731-1bdb-4b8d-b936-f1eb01471999)
 
 
@@ -25,7 +29,8 @@ Excel
 
 ## Usage
 Open excel file of the analysis
-- Note: the file is too large to upload to GitHub. Will upload to BCS seperately 
+- Note: the file is too large to upload to GitHub. Will upload to BCS seperately
+
 
 ## Credits
 Tiffany La Mar
